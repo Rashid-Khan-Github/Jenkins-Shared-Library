@@ -3,12 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="6265b848-637f-48d4-bd93-9deaf4181ecf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkins-Shared-Library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkins-Shared-Library.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Jenkins-Shared-Library" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.Jenkins" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,6 +43,24 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="buildImage" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Jenkins-Shared-Library" />
+      <setting name="path" value="file://$PROJECT_DIR$/vars/buildImage.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/vars" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.buildImage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684075503329</updated>
-      <workItem from="1684075505103" duration="1420000" />
+      <workItem from="1684075505103" duration="1622000" />
+      <workItem from="1684086511204" duration="764000" />
     </task>
     <servers />
   </component>
@@ -60,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
