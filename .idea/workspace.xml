@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6265b848-637f-48d4-bd93-9deaf4181ecf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkins/Docker.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars/dockerLogin.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars/dockerPush.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vars/buildImage.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/buildImage.groovy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +27,9 @@
     </treeState>
   </component>
   <component name="ProjectId" id="2PmwKnhP2CNccxmvkrkEbFi6tnf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
@@ -74,6 +79,7 @@
       <updated>1684075503329</updated>
       <workItem from="1684075505103" duration="1622000" />
       <workItem from="1684086511204" duration="2008000" />
+      <workItem from="1684496180536" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="Jenkins shared lib added">
       <created>1684087685937</created>
